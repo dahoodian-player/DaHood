@@ -1,16 +1,4 @@
---[[
-
-Premium Interface Suite
-by Sirius
-
-shlex | Designing + Programming
-iRay  | Programming
-
-]]
-
-
-
-local Release = "Beta 8"
+local Release = "Beta 1"
 local NotificationDuration = 6.5
 local PremiumFolder = "Premium"
 local ConfigurationFolder = PremiumFolder.."/Configurations"
